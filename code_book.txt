@@ -1,3 +1,12 @@
+Code Book - Tidy Dataset
+=================
+
+The final tidy dataset contains a single row for each activity done by a certain subject.  The columns are the means of all the original mean and standard deviation variables.  (See below for a description of the original variables.)
+
+Code Book - Original Dataset
+=================
+
+
 Feature Selection 
 =================
 
