@@ -9,7 +9,12 @@ Run the script with the following command:
     
 This script will create a CSV file that contains the final tidy dataset.
 
-Code Book
+Code Book - Tidy Dataset
+=================
+
+The final tidy dataset contains a single row for each activity done by a certain subject.  The columns are the means of all the original mean and standard deviation variables.  (See below for a description of the original variables.)
+
+Code Book - Original Dataset
 =================
 
 The following explanation of the variables included in the final dataset comes from the original collectors of the data, the UC Irvine Center for Machine Learning and Intelligent Systems.  More details can be found at their website:
